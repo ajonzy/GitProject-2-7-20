@@ -8,6 +8,9 @@ login("Alex", password)
 
 // Some new feature
 
+
+// New feature
+
 // Some change
 
 // Another change
